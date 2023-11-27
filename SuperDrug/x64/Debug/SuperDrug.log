@@ -1,39 +1,6 @@
-﻿  main.c
-  GameScene.c
-D:\Project\SuperDrug\SuperDrug\Source\main.c(5,12): warning C4026: 정식 매개 변수 목록을 사용하여 함수를 선언했습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(12,16): warning C4133: '초기화 중': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(37,16): warning C4133: '초기화 중': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
-  MainScene.c
-D:\Project\SuperDrug\SuperDrug\Source\Scene\MainScene.c(17,16): warning C4133: '초기화 중': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Scene\MainScene.c(42,16): warning C4133: '초기화 중': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
-  animation.c
-  collision.c
-  draw.c
-D:\Project\SuperDrug\SuperDrug\Source\Util\draw.c(11,28): warning C4133: '함수': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\draw.c(12,24): warning C4133: '함수': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\draw.c(36,24): warning C4133: '함수': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\draw.c(20,15): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\draw.c(20,19): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\draw.c(25,15): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\draw.c(25,19): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\draw.c(30,15): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\draw.c(30,19): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\draw.c(41,28): warning C4133: '함수': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\draw.c(49,37): warning C4133: '함수': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
-  font.c
-D:\Project\SuperDrug\SuperDrug\Source\Util\font.c(34,24): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\font.c(35,24): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  image.c
-  input.c
-D:\Project\SuperDrug\SuperDrug\Source\Util\input.c(22,27): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
-  linkedlist.c
-  pch.c
-  timer.c
-  window.c
-D:\Project\SuperDrug\SuperDrug\Source\Util\window.c(51,11): warning C4133: '=': 'SDL_Renderer *'과(와) 'SDL_Surface *' 사이의 형식이 호환되지 않습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\window.c(69,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\window.c(104,22): warning C4133: '함수': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
-  코드를 생성하고 있습니다...
-D:\Project\SuperDrug\SuperDrug\Source\Util\input.c(52): warning C4715: 'getButtonState': 모든 제어 경로에서 값을 반환하지는 않습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Util\input.c(35): warning C4715: 'getKeyState': 모든 제어 경로에서 값을 반환하지는 않습니다.
+﻿  MainScene.c
+D:\Project\SuperDrug\SuperDrug\Source\Scene\MainScene.c(27,26): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\MainScene.c(28,26): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\MainScene.c(20,16): warning C4133: '초기화 중': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\MainScene.c(77,16): warning C4133: '초기화 중': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
   SuperDrug.vcxproj -> D:\Project\SuperDrug\x64\Debug\SuperDrug.exe
