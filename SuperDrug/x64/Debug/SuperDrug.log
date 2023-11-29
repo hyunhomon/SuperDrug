@@ -1,6 +1,24 @@
-﻿  MainScene.c
-D:\Project\SuperDrug\SuperDrug\Source\Scene\MainScene.c(27,26): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Scene\MainScene.c(28,26): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Scene\MainScene.c(20,16): warning C4133: '초기화 중': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
-D:\Project\SuperDrug\SuperDrug\Source\Scene\MainScene.c(77,16): warning C4133: '초기화 중': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
+﻿  GameScene.c
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(86,16): warning C4133: '초기화 중': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(149,27): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(149,33): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(223,33): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(223,44): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(246,28): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(246,34): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(290,33): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(290,44): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(314,34): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(314,45): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(347,16): warning C4133: '초기화 중': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(385,16): warning C4133: '초기화 중': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(461,39): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(461,59): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(470,30): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(470,41): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(481,31): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(481,42): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(484,31): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(484,42): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Project\SuperDrug\SuperDrug\Source\Scene\GameScene.c(455,16): warning C4133: '초기화 중': 'SDL_Surface *'과(와) 'SDL_Renderer *' 사이의 형식이 호환되지 않습니다.
   SuperDrug.vcxproj -> D:\Project\SuperDrug\x64\Debug\SuperDrug.exe
